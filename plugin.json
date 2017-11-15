@@ -1,0 +1,9 @@
+{
+    "name": "BluetoothScan",
+    "api": "Plugin.BluetoothScan",
+    "request": {
+    },
+    "response": {
+        "text": "string"
+    }
+}
